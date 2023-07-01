@@ -1,0 +1,44 @@
+{
+  "biliVerify": {
+    "biliCookies": "buvid3=D70E812F-0B4E-4226-4BDB-566F1BDA7E8816318infoc; b_nut=1667293116; i-wanna-go-back=-1; b_ut=5; _uuid=822C345F-3AFD-C223-BF9E-D106A551096107416736infoc; buvid_fp=89b5ede37d7b59ca61e83c4a16af1d5c; buvid4=46255AD5-93FA-72F6-D066-A72E8798D99917906-022050917-HTJQ4HS09aNtXPMrlFKyEg%3D%3D; CURRENT_FNVAL=4048; fingerprint=89b5ede37d7b59ca61e83c4a16af1d5c; buvid_fp_plain=undefined; PVID=1; rpdid=|(RYJuYulY)0J'uYY)mu)J|Y; hit-new-style-dyn=1; hit-dyn-v2=1; nostalgia_conf=-1; CURRENT_QUALITY=80; LIVE_BUVID=AUTO5516756736742131; header_theme_version=CLOSE; home_feed_column=5; CURRENT_PID=1b0a8f90-cfc4-11ed-9932-d9c5aa6d8bc3; bp_video_offset_515625447=805168899249143800; FEED_LIVE_VERSION=V8; browser_resolution=1920-919; SESSDATA=9c1bf367%2C1702468949%2Cd8278%2A61ei6GJSMaKXgZFrmae6425x1EIPINhhkDaeoZVYUX1edc3DPGq0XKvU6KI9mToVi9nRSwcQAALwA; bili_jct=90197858eeee638c720184ad2b624feb; DedeUserID=515625447; DedeUserID__ckMd5=73b90ec570c978b9; b_lsid=F1E8D710C_188C75C38C8; sid=574uc3du; bsource=search_baidu; innersign=0"
+  },
+  "taskConfig": {
+    "skipDailyTask": false,
+    "matchGame": false,
+    "showHandModel": false,
+    "predictNumberOfCoins": 1,
+    "minimumNumberOfCoins": 100,
+    "taskIntervalTime": 20,
+    "numberOfCoins": 5,
+    "coinAddPriority": 1,
+    "reserveCoins": 10,
+    "selectLike": 0,
+    "monthEndAutoCharge": true,
+    "giveGift": true,
+    "silver2Coin": true,
+    "upLive": "0",
+    "chargeForLove": "14602398",
+    "chargeDay": 25,
+    "devicePlatform": "ios",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0"
+  },
+  "pushConfig": {
+    "SC_KEY": "",
+    "SCT_KEY": "",
+    "TG_BOT_TOKEN": "",
+    "TG_USER_ID": "",
+    "TG_USE_CUSTOM_URL": false,
+    "DING_TALK_URL": "",
+    "DING_TALK_SECRET": "",
+    "PUSH_PLUS_TOKEN": "",
+    "WE_COM_GROUP_TOKEN": "",
+    "WE_COM_APP_CORPID": "",
+    "WE_COM_APP_CORP_SECRET": "",
+    "WE_COM_APP_AGENT_ID": 0,
+    "WE_COM_APP_TO_USER": "",
+    "WE_COM_APP_MEDIA_ID": "",
+    "PROXY_HTTP_HOST": "",
+    "PROXY_SOCKET_HOST": "",
+    "PROXY_PORT": 0
+  }
+}
